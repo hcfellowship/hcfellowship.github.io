@@ -143,9 +143,9 @@ img{
 }
 .navbar-default .navbar-brand {
   color: #fff;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: bold;
-  margin-top: 15px; 
+  margin-top: 10px; 
 }
 .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
   background-color: transparent;
@@ -158,7 +158,7 @@ img{
 #navbar{overflow-x: hidden;}
 .navbar-default .navbar-nav > li > a {
   color: #fff;
-  padding: 30px 15px;
+  padding: 60px 15px;
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
