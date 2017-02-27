@@ -152,13 +152,13 @@ img{
   color: #fff;
 }
 .navbar-default {
-  background-color: #313b3d;
+  background-color: #0eaf31;
   border-color: transparent;
 }
 #navbar{overflow-x: hidden;}
 .navbar-default .navbar-nav > li > a {
   color: #fff;
-  padding: 30px 15px;
+  padding: 60px 15px;
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
