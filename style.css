@@ -159,7 +159,7 @@ background: rgba(49, 59, 61, 0.6);
 #navbar{overflow-x: hidden;}
 .navbar-default .navbar-nav > li > a {
   color: #fff;
-  padding: 40px 15px;
+  padding: 60px 15px;
   text-transform: uppercase;
   -webkit-transition: all 0.5s;
   -o-transition: all 0.5s;
